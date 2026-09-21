@@ -242,4 +242,4 @@ This repository serves as the official landing page for The Sims 2. The software
 **Get the most recent version of The Sims 2 today!**
 
 ---
-**Last updated:** 2026-09-21 00:38:39 UTC
+**Last updated:** 2026-09-21 05:38:57 UTC
